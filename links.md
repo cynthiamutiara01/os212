@@ -10,3 +10,5 @@ This link explain what is an operating system and its history, examples, types, 
 This link explain the basic markdown syntax that we can use to decorate our github page.
 3. [Learn C Programming](https://www.programiz.com/c-programming)<br>
 It contains everything we need to know when learning basic c programming language.
+4. [Addressing, Shared Lib, & Pointer](https://youtu.be/aQgyZGd1MhY)<br>
+This video is about Week 04 topic explained by Sir Anwar.
