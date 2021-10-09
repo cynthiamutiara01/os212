@@ -20,7 +20,11 @@ ZCZC W03 20 L03 GitHub related
 ZCZC W03 10 L01 Discord related
 ZCZC W03 120 L09 Assignment in General
 ZCZC W04 30 L01 Scele related
-ZCZC W04 60 L05 Quiz related
+ZCZC W04 60 L22 Quiz
 ZCZC W04 150 L09 Assignment in General
 ZCZC W04 15 L08 AsDos: asking
 ZCZC W04 100 L70 Studying for other courses
+ZCZC W05 20 L01 Scele related
+ZCZC W05 100 L02 Zoom meetings related
+ZCZC W05 60 L22 Quiz
+ZCZC W05 60 L09 Assignment in General
