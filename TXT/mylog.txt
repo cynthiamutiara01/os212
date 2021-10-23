@@ -28,3 +28,6 @@ ZCZC W05 20 L01 Scele related
 ZCZC W05 100 L02 Zoom meetings related
 ZCZC W05 60 L22 Quiz
 ZCZC W05 60 L09 Assignment in General
+ZCZC W06 30 L06 GSGS related
+ZCZC W06 60 L73 Gaming
+ZCZC W06 120 L09 Assignment in General
