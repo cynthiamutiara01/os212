@@ -24,4 +24,8 @@ This link contains pdf file that explain about virtual memory in linux.
 Explain about concurrency: Message passing & shared memory, Processes & threads, Time slicing, and Race conditions
 2. [Processes and Threads](https://youtu.be/Wv7mzX8w3jI)<br>
 This video is about concurrency basic: processes and threads
-
+### Week 07
+1. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)<br>
+Explain what and how process synchronization works, also explain what is, rules, and solution to the critical section problem
+2. [Introduction to Synchronization](https://youtu.be/2yocuGca5As)<br>
+This video explains the theory for an introduction to synchronization
