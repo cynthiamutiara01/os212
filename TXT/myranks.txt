@@ -17,9 +17,6 @@ ZCZC W06 hanifsyuaib
 ZCZC W07 icarustrench
 ZCZC W07 indiradr
 ZCZC W07 Irsyadcad
-<<<<<<< HEAD
-=======
 ZCZC W08 ivanphanderson 
 ZCZC W08 jasonwidodo
 ZCZC W08 johaneschristian
->>>>>>> 6964fbb (Submit W08)
