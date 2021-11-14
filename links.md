@@ -29,3 +29,8 @@ This video is about concurrency basic: processes and threads
 Explain what and how process synchronization works, also explain what is, rules, and solution to the critical section problem
 2. [Introduction to Synchronization](https://youtu.be/2yocuGca5As)<br>
 This video explains the theory for an introduction to synchronization
+### Week 08
+1. [Linux Scheduler](https://www.kernel.org/doc/html/latest/scheduler/index.html)<br>
+Textbook to read about linux scheduler
+2. [Scheduling in Linux](https://youtu.be/vF3KKMI3_1s)<br>
+Process Types, History (Schedulers for Normal Processors), O(n) Scheduler, O(1) Scheduler
