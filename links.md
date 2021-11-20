@@ -34,3 +34,10 @@ This video explains the theory for an introduction to synchronization
 Textbook to read about linux scheduler
 2. [Scheduling in Linux](https://youtu.be/vF3KKMI3_1s)<br>
 Process Types, History (Schedulers for Normal Processors), O(n) Scheduler, O(1) Scheduler
+### Week 09
+1. [RAID (Redundant Arrays of Independent Disks)](https://hardwaresfera.com/en/articulos/que-es-raid/)<br>
+This link explains what a RAID is, what it is used for, and its types (RAID 0, 1, 5, 6, 01, 10, 50, 100, and more).
+2. [Firmware and Bootloader](https://rose.telecom-paristech.fr/2012/wp-content/uploads/2012/03/Firmwares-and-bootloaders.pdf)<br>
+This file describes the concepts of firmware and bootloader, reliability, updates, etc.
+3. [How to Build Linux From Scratch (LFS) 10.1](https://youtube.com/playlist?list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL)<br>
+This playlist helped me to build Linux From Scratch even though the version that being used here is lower.
