@@ -39,3 +39,6 @@ ZCZC W08 30 L02 ZOOM meetings related
 ZCZC W08 15 L08 AsDos: asking, etc.
 ZCZC W08 240 L09 Assignment in General
 ZCZC W08 20 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W09 60 L32 YouTube: study, etc.
+ZCZC W09 30 L01 SCELE/Discord related
+ZCZC W09 180 L09 Assignment in General
