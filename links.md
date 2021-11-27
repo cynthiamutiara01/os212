@@ -43,4 +43,4 @@ This file describes the concepts of firmware and bootloader, reliability, update
 The Youtube playlist that helped me to build Linux From Scratch 11.0
 ### Week 10
 [Sistem I/O](https://docplayer.info/31675093-Sistem-i-o-hardware-i-o-interface-aplikasi-i-o-subsystem-kernel-i-o-transformasi-permintaan-request-i-o-ke-operasi-hardware-stream-unjuk-kerja.html)<br>
-This slide show explain the I/O system (I/O Hardware, Application I/O Interface, Kernel I/O Subsystem, Transforming I/O Requests to Hardware Operations, Stream, and its work method)
+This slide show explain the I/O system (I/O Hardware, Application I/O Interface, Kernel I/O Subsystem, Transforming I/O Requests to Hardware Operations, STREAMS, and its work method)
