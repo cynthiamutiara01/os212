@@ -39,5 +39,8 @@ Process Types, History (Schedulers for Normal Processors), O(n) Scheduler, O(1) 
 This link explains what a RAID is, what it is used for, and its types (RAID 0, 1, 5, 6, 01, 10, 50, 100, and more).
 2. [Firmware and Bootloader](https://rose.telecom-paristech.fr/2012/wp-content/uploads/2012/03/Firmwares-and-bootloaders.pdf)<br>
 This file describes the concepts of firmware and bootloader, reliability, updates, etc.
-3. [How to Build Linux From Scratch (LFS) 10.1](https://youtube.com/playlist?list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL)<br>
-This playlist helped me to build Linux From Scratch even though the version that being used here is lower.
+3. [How to compile Linux From Scratch 11.0 on an Apple iMac](https://youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)<br>
+The Youtube playlist that helped me to build Linux From Scratch 11.0
+### Week 10
+[Sistem I/O](https://docplayer.info/31675093-Sistem-i-o-hardware-i-o-interface-aplikasi-i-o-subsystem-kernel-i-o-transformasi-permintaan-request-i-o-ke-operasi-hardware-stream-unjuk-kerja.html)<br>
+This slide show explain the I/O system (I/O Hardware, Application I/O Interface, Kernel I/O Subsystem, Transforming I/O Requests to Hardware Operations, Stream, and its work method)
