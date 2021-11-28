@@ -42,3 +42,7 @@ ZCZC W08 20 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W09 60 L32 YouTube: study, etc.
 ZCZC W09 30 L01 SCELE/Discord related
 ZCZC W09 180 L09 Assignment in General
+ZCZC W10 60 L04 Quiz related
+ZCZC W10 20 L06 References/Books/Documents/GSGS related
+ZCZC W10 10 L81 Listening: Radio, Music, etc.
+ZCZC W10 60 L09 Assignment in General
